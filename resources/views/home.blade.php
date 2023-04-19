@@ -8,6 +8,15 @@
   <body>
     <h1>Halaman Home</h1>
     <h2>Hello Ini Home</h2>
+    <h2>Hello Ini Home</h2>
+    <h2>Hello Ini Home</h2>
+    <h2>Hello Ini Home</h2>
+    <h2>Hello Ini Home</h2>
+    <h2>Hello Ini Home</h2>
+    <h2>Hello Ini Home</h2>
+    <h2>Hello Ini Home</h2>
+    <h2>Hello Ini Home</h2>
+    <h2>Hello Ini Home</h2>
   </body>
 </html>
 
